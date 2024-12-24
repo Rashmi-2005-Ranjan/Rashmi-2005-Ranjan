@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Rashmi Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Rashmi</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3YxdGUzY3o5eXN4dGxjaXQ3b2wxMmlrMTFwOTZwOGFqaTBvdzNnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
