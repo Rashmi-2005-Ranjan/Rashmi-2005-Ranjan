@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Angular + Spring Boot , React + Spring Boot <br><br>✨ I'm looking to collaborate on open-source projects related to Angular, React, Spring Boot, and Full-Stack Development.<br><br>🤝 I'm looking for help with backend optimization, Spring Security , DSA.<br><br>🌱 I'm currently learning , Microservices Architecture.<br><br>💬 Ask me about Angular , React, Spring Boot, DSA, and Full-Stack Development.<br><br>⚡ Fun fact: I enjoy solving coding challenges and exploring new web frameworks in my free time! 🚀
+🔭 I'm currently working on Angular + Spring Boot , React + Spring Boot <br><br>✨ I'm looking to collaborate on open-source projects related to Angular, React, Spring Boot, and Full-Stack Development.<br><br>🤝 I'm looking for help with backend optimization, Spring Security , DSA.<br><br>🌱 I'm currently learning Spring Security , Microservices Architecture .<br><br>💬 Ask me about Angular , React, Spring Boot, DSA, and Full-Stack Development.<br><br>⚡ Fun fact: I enjoy solving coding challenges and exploring new web frameworks in my free time! 🚀
 
 
 ## 🌐 Socials:
